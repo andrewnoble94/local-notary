@@ -1,2 +1,0 @@
-# Notary and arbitrary data
-
